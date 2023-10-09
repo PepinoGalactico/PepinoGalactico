@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PepinoGalactico
 - 👀 I’m interested in videogames and cybersecurity
-- 🌱 I’m currently learning Python and C#
 - 📫 You can reach me on Discord: @pepinogalactico
 
 <!---
