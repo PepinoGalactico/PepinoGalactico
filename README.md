@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PepinoGalactico
-- 👀 I’m interested in videogames and cybersecurity
+- 👀 I’m interested in videogames and webdev
 - 📫 You can reach me on Discord: @pepinogalactico
 
 <!---
